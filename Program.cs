@@ -6,9 +6,9 @@ namespace LesBouclesExo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            //Afficher 10 fois le message suivant dans la console :
-            //«Bonjour, je ne suis qu'un simple message.»
+            //Console.WriteLine("Hello World!");
+            /*Afficher 10 fois le message suivant dans la console :
+            «Bonjour, je ne suis qu'un simple message.»*/
 
             int counter = 0;
             while (counter < 10)
